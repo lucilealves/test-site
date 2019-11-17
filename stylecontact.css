@@ -13,7 +13,7 @@ body {
 }
 
 body {
-  background-color: #95a595;
+  background-color: #f4eaba;
   background-size: cover;
   margin: 0;
   padding: 0;
@@ -41,15 +41,11 @@ h1 {
 }
 
 .topnav a:hover {
-  background-color: #95a595;
+  background-color: #f4eaba;
   color: black;
 }
 
 .topnav a.active {
   background-color: #807155;
   color: white;
-}
-
-img{
-  width: 100%;
 }
