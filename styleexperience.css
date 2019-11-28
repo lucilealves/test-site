@@ -1,3 +1,7 @@
+
+
+
+/* o */
 @media all and (max-width:480xp)
 }
 @media(min-width:480xp) and (max-width:780px)
@@ -13,7 +17,7 @@ body {
 }
 
 body {
-  background-color: #8FACBF;
+  background-color: #95a595;
   background-size: cover;
   margin: 0;
   padding: 0;
@@ -50,3 +54,13 @@ h1 {
   color: white;
 }
 
+#fondprincipal{
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  align-self: center;
+}
+
+#cv{
+  width: 100%;
+}
